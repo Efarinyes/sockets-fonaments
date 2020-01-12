@@ -5,5 +5,5 @@
 
 
 ```
-Recorda execcutar 'npm install' per descarregar les dependències necessàrie
+Recorda executar 'npm install' per descarregar les dependències necessàrie
 ```
