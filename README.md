@@ -1,9 +1,9 @@
 # Notas:
 
-Este es un pequeño servidor de express listo para ejecutarse y servir la carpeta public en la web.
+- Petit servidor d'Express llest para executar-se i servir la carpeta public a la web.
 
-Recuerden que deben de reconstruir los módulos de node con el comando
+
 
 ```
-npm install
+Recorda execcutar 'npm install' per descarregar les dependències necessàrie
 ```
